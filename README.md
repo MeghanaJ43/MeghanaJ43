@@ -1,16 +1,13 @@
-## Hi there 👋
+# Meghanaj43<BR> 
+<BR> 
+# Hey there 👋, I'm Meghana. 📊 Data Analyst | 📈 Data Enthusiast | 🧠 Lifelong LearnerI specialize in turning data into actionable insights. My passion lies in leveraging data to solve complex problems and drive business growth. 
 
-<!--
-**MeghanaJ43/MeghanaJ43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst/Data Scientist 
+- 🌱 I’m currently working on: Analyzing customer data to identify trends and improve customer retention strategies using SQL and Python 
+- 🌱 I’m currently learning: Python, AWS
+- 💬 Ask me about: Data Analysis 
+- 😄 Fun fact: My mind is a cinema of unwritten crime thrillers that could give Hollywood a run for its money 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/meghanaj-) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:meghana.jagadish431@gmail.com)
