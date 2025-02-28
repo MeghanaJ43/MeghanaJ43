@@ -2,7 +2,7 @@
 <BR> 
 # Hey there 👋, I'm Meghana. 📊 Data Analyst | 📈 Data Enthusiast | 🧠 Lifelong LearnerI specialize in turning data into actionable insights. My passion lies in leveraging data to solve complex problems and drive business growth. 
 
-## Data Analyst/Data Scientist 
+## Data Analyst/Business Analyst
 - 🌱 I’m currently working on: Analyzing customer data to identify trends and improve customer retention strategies using SQL and Python 
 - 🌱 I’m currently learning: Python, AWS
 - 💬 Ask me about: Data Analysis 
