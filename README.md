@@ -1,6 +1,8 @@
 # Meghanaj43<BR> 
 <BR> 
-# Hey there 👋, I'm Meghana. 📊 Data Analyst | 📈 Data & AI Enthusiast | 🧠 Continuous Learner I specialize in turning data into actionable insights. My passion lies in leveraging data to solve complex problems and drive business growth. 
+# Hi👋,I'm Meghana
+📊 Data Analyst | 📈 Data & AI Enthusiast | 🧠 Continuous Learner 
+I specialize in turning data into actionable insights. My passion lies in leveraging data to solve complex problems and drive business growth. 
 
 🛠️ Skills & Tools
 📊 Data Analysis: EDA, Data Cleaning, Feature Engineering, Statistics
