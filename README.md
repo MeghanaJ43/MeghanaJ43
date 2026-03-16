@@ -5,9 +5,9 @@
 I specialize in turning data into actionable insights. My passion lies in leveraging data to solve complex problems and drive business growth. 
 
 🛠️ Skills & Tools
-📊 Data Analysis: EDA, Data Cleaning, Feature Engineering, Statistics
+📊 Data Analysis: EDA, Data Cleaning, Statistics
 💻 Programming & Querying: Python, SQL
-📈 Visualization: Power BI, Tableau, Excel (Advanced)
+📈 Visualization: Power BI, Excel (Advanced)
 ⚙️ Data & Cloud (Learning & Practicing): AWS, ETL Concepts, Snowflake
 🤖 Emerging: Generative AI for Data Analysis
 
