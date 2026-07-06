@@ -1,20 +1,68 @@
 # Meghanaj43<BR> 
 <BR> 
-# Hi👋,I'm Meghana
-📊 Data Analyst | 📈 Data & AI Enthusiast | 🧠 Continuous Learner 
-I specialize in turning data into actionable insights. My passion lies in leveraging data to solve complex problems and drive business growth. 
+# # Hi 👋, I'm Meghana
 
-🛠️ Skills & Tools
-📊 Data Analysis: EDA, Data Cleaning, Statistics
-💻 Programming & Querying: Python, SQL
-📈 Visualization: Power BI, Excel (Advanced)
-⚙️ Data & Cloud (Learning & Practicing): AWS, ETL Concepts, Snowflake
-🤖 Emerging: Generative AI for Data Analysis
+### 🚀 Aspiring AI Engineer | Python | Machine Learning | Generative AI | SQL
 
-## Data Analyst
-- 🌱 I’m currently working on: Analyzing customer data to identify trends and improve customer retention strategies using SQL and Python 
-- 🌱 I’m currently learning: Advanced Python for Data Analysis,AWS & Data Pipelines,Real-world ETL Workflows
+I'm an aspiring **AI Engineer** passionate about building intelligent applications using **Python, Machine Learning, Large Language Models (LLMs), and AI Agents**. I enjoy solving real-world problems by combining software engineering, data, and artificial intelligence.
 
+Currently, I'm focused on building end-to-end AI applications while strengthening my skills in machine learning, cloud computing, and scalable AI systems.
+
+---
+
+## 🚀 Currently Learning
+
+* Python for AI Engineering
+* Machine Learning with Scikit-learn
+* Deep Learning with PyTorch
+* Generative AI & Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* LangChain & AI Agents
+* FastAPI & Docker
+* AWS Cloud
+
+---
+
+## 🛠 Tech Stack
+
+**Programming**
+
+* Python
+* SQL
+
+**AI & Machine Learning**
+
+* Scikit-learn
+* PyTorch (Learning)
+* Hugging Face
+* OpenAI APIs
+* LangChain
+* LangGraph
+* RAG
+* Prompt Engineering
+
+**Data**
+
+* Pandas
+* NumPy
+* Power BI
+* Excel
+
+**Databases**
+
+* PostgreSQL
+* Snowflake (Learning)
+
+**Cloud & DevOps**
+
+* AWS (Learning)
+* Docker
+* Git
+* GitHub
+
+---
+
+## 📂 Current Projects 
 
 ## Contact Me 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/meghanaj-) 
