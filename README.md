@@ -46,12 +46,10 @@ Currently, I'm focused on building end-to-end AI applications while strengthenin
 * Pandas
 * NumPy
 * Power BI
-* Excel
 
 **Databases**
 
 * PostgreSQL
-* Snowflake (Learning)
 
 **Cloud & DevOps**
 
